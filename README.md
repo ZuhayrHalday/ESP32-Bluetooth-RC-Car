@@ -13,7 +13,7 @@ This project is an ESP32 Bluetooth-controlled RC car that uses the Dabble app fo
 - ESP32 development board
 - Dabble app installed on your smartphone
 - Two DC motors
-- Motor driver module
+- L298N Dual-motor driver module
 - 3D printer for printing the car chassis and components
 - Miscellaneous electronic components (wires, resistors, etc.)
 
