@@ -166,7 +166,7 @@ The 3D model of the RC car can be found in the `3D_Model` folder. It includes ST
 
 ## License
 
-This project is licensed under the GPL 3.0 License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GPL-3.0 License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
